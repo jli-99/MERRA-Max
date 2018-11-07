@@ -1,0 +1,19 @@
+{
+"startDate": "01-01-2016", 
+"ulx": 374187.0, 
+"uly": 4202663.0, 
+"endDate": "03-02-2016", 
+"epsg": 32612, 
+"inputDirectory": ".", 
+"state": "Pending", 
+"outputDirectory": "/home/jli/workspace/mmx/testing/Mmx", 
+"topTen": null, 
+"phase": "MERRA", 
+"configFile": "/home/jli/workspace/mmx/testing/Mmx/config.mmx", 
+"presenceFile": "/home/jli/workspace/mmx/testing/field_data/GSENM_cheat_pres_abs_2001.csv", 
+"numTrials": 10, 
+"numProcesses": 10, 
+"lry": 4100640.0, 
+"lrx": 501598.0, 
+"species": "cheatgrass"
+}

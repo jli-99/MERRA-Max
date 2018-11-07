@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MERRA-Max.iml" filepath="$PROJECT_DIR$/.idea/MERRA-Max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RECOVER/.idea/RECOVER.iml" filepath="$PROJECT_DIR$/../RECOVER/.idea/RECOVER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cds_client/.idea/cds_client.iml" filepath="$PROJECT_DIR$/../../cds_client/.idea/cds_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../git_test/.idea/git_test.iml" filepath="$PROJECT_DIR$/../../git_test/.idea/git_test.iml" />
+    </modules>
+  </component>
+</project>
